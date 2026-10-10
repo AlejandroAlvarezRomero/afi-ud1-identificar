@@ -49,3 +49,69 @@ Cuando vuelves al puesto, Marta ha regresado. Pregunta, con educación, si va a 
 4. Los límites. Qué no puedes tocar o no puedes tocar todavía, por qué, y qué harías en su lugar.
 
 5. De dónde sale cada decisión. Indica qué punto de tu lista de comprobación, y por tanto qué norma, te llevó a cada una.
+
+----
+
+#### 1. Fuentes De Evidencia:
+
+Portátil Dell. 
+Disco externo negro de 2TB 
+Impresora para ver que ha imprimido Marta
+Sobremesa impresora.
+Pendrive Javi
+Registro de conexiones a la red, cortafuegos.
+Cámara de seguridad
+Onedrive
+Portal Microsoft
+Copias de seguridad en un NAS 14 Dias
+Movil empresa.
+
+#### 2. Prioridad:
+
+Logs del cortafuegos, el técnico de Bahia Sistemas nos ha comentado que duran una semana o asi, asi que hay que proceder.
+
+Portátil Dell, la memoria ram hay que ponerla a salvo.
+
+Sobremesa compartido para imprimir y escanear, ram también.
+
+Iphone de empresa.
+
+Mirar cámaras de grabación, ya que se van borrando con el paso de los Dias las ultimas grabaciones
+
+Por ultimo seria todo lo demás, disco duro de 2TB, el pendrive de Javi, el portal de Microsoft, las copias de seguridad en el NAS
+
+#### 3. Medidas Inmediatas
+
+El portátil Dell no se puede apagar, lo desconectaremos de la red y procedemos a hacerlo un volcado de datos a nivel de bits y calcularemos el hash para que asi las pruebas tenga validez judicial.
+
+Tendremos que hablar con Bahia Sistemas para que nos faciliten las copias de seguridad del NAS, los logs por conexión a la red y como consejo que marta desde su casa no pueda hacer nada, desactivando el punto de acceso.
+
+El iphone de empresa deberemos de desconectarlo de la red poniéndolo en modo avión.
+
+El disco y pen drive tendremos que hacerle una copia a nivel de bits y calcularemos de nuevo el hash.
+
+PC compartido y impresora, salvar la RAM, desconectar de la red y volcado de datos a nivel de bits junto a calculo del hash.
+
+Camara de vigilancias, tendremos que pedirle a la comunidad el acceso a las camaras, para ellos hablaremos con Elena.
+
+#### 4. Limites
+
+Son cosas fáciles pero que hay que tener en cuenta por si no nos damos cuenta y meternos en un lio legal, el Movil personal que vimos sobresaliendo en el bolso de Marta no podemos ni mirarlo ni tocarlo, es un objeto suyo personal que solo podremos acceder a el si la empresa mete de por medio un juez y este ordena que se pueda hacer un analisis.
+
+Las cámaras como nos ha comentado Elena son de la comunidad es decir, no podemos ir al libre albedrío y gestionarlas nosotros, antes debemos pedir permiso.
+
+Tampoco podemos obligar nosotros a Marta a nada, en cualquier caso hablar con Elena.
+
+#### 5. Justificación basada en la Lista de Comprobación.
+
+En el punto 3 y 4 de mi lista de comprobación indicamos lo que viene siendo identificar equipos y todo tiempo de evidencias en realidad.
+
+En el punto 5 y 11, indicamos que hay que pedir el registro de los logs y preguntar sobre las copias de seguridad, donde se almacenan y todo y en el otro punto indicamos que si necesitamos ayuda de terceros y pensar si la necesitamos.
+
+Punto 7 documentar estado de los dispositivos, están encendidos, tienen bitlocker.
+
+Punto 8, desconectar todos los dispositivos de la red. 
+
+Punto 14, seguir el orden de volatilidad.
+
+Punto 15 y 16, generar hashes de todo los volcados que realicemos como también el etiquetado de todos los dispositivos.
